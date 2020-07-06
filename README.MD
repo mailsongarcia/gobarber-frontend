@@ -15,8 +15,7 @@ GoBarber é o projeto desenvolvido durante o BootCamp GoStack da Rocketseat. Uma
 - [**Axios**](https://www.typescriptlang.org/)
 - [**Styled Componentes**](https://styled-components.com/docs/basics)
 - [**Yup**](https://github.com/jquense/yup))
-- [**MongoDB**](https://www.mongodb.com/)
-- [**Redis**](https://redis.io/)
+
 ---
 
 
